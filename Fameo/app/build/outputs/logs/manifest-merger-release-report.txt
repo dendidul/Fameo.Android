@@ -1,0 +1,142 @@
+-- Merging decision tree log ---
+application
+INJECTED from D:\SourceCode\Product\FameoAndroid2\Fameo\app\src\main\AndroidManifest.xml:25:5-54:19
+MERGED from [com.github.GoogleChrome.custom-tabs-client:customtabs:126c460] C:\Users\erdendi.lesmana\.gradle\caches\transforms-1\files-1.1\customtabs-126c460.aar\cbc2b336db8c96066cc695c2ab538e0f\AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.GoogleChrome.custom-tabs-client:customtabs:126c460] C:\Users\erdendi.lesmana\.gradle\caches\transforms-1\files-1.1\customtabs-126c460.aar\cbc2b336db8c96066cc695c2ab538e0f\AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.GoogleChrome.custom-tabs-client:shared:126c460] C:\Users\erdendi.lesmana\.gradle\caches\transforms-1\files-1.1\shared-126c460.aar\673c524d06123634317f8146ebb94e6e\AndroidManifest.xml:26:5-20
+MERGED from [com.github.GoogleChrome.custom-tabs-client:shared:126c460] C:\Users\erdendi.lesmana\.gradle\caches\transforms-1\files-1.1\shared-126c460.aar\673c524d06123634317f8146ebb94e6e\AndroidManifest.xml:26:5-20
+	android:supportsRtl
+		ADDED from D:\SourceCode\Product\FameoAndroid2\Fameo\app\src\main\AndroidManifest.xml:29:9-35
+	android:label
+		INJECTED from D:\SourceCode\Product\FameoAndroid2\Fameo\app\src\main\AndroidManifest.xml
+		ADDED from D:\SourceCode\Product\FameoAndroid2\Fameo\app\src\main\AndroidManifest.xml:28:9-40
+	android:icon
+		ADDED from D:\SourceCode\Product\FameoAndroid2\Fameo\app\src\main\AndroidManifest.xml:27:9-43
+	android:allowBackup
+		ADDED from D:\SourceCode\Product\FameoAndroid2\Fameo\app\src\main\AndroidManifest.xml:26:9-35
+	android:theme
+		ADDED from D:\SourceCode\Product\FameoAndroid2\Fameo\app\src\main\AndroidManifest.xml:30:9-47
+meta-data#asset_statements
+INJECTED from D:\SourceCode\Product\FameoAndroid2\Fameo\app\src\main\AndroidManifest.xml:32:9-34:50
+	android:value
+		INJECTED from D:\SourceCode\Product\FameoAndroid2\Fameo\app\src\main\AndroidManifest.xml
+		ADDED from D:\SourceCode\Product\FameoAndroid2\Fameo\app\src\main\AndroidManifest.xml:34:13-47
+	android:name
+		ADDED from D:\SourceCode\Product\FameoAndroid2\Fameo\app\src\main\AndroidManifest.xml:33:13-44
+activity#android.support.customtabs.trusted.LauncherActivity
+INJECTED from D:\SourceCode\Product\FameoAndroid2\Fameo\app\src\main\AndroidManifest.xml:36:9-53:20
+	android:label
+		INJECTED from D:\SourceCode\Product\FameoAndroid2\Fameo\app\src\main\AndroidManifest.xml
+		ADDED from D:\SourceCode\Product\FameoAndroid2\Fameo\app\src\main\AndroidManifest.xml:37:13-44
+	android:name
+		ADDED from D:\SourceCode\Product\FameoAndroid2\Fameo\app\src\main\AndroidManifest.xml:36:19-85
+meta-data#android.support.customtabs.trusted.DEFAULT_URL
+INJECTED from D:\SourceCode\Product\FameoAndroid2\Fameo\app\src\main\AndroidManifest.xml:38:13-39:49
+	android:value
+		INJECTED from D:\SourceCode\Product\FameoAndroid2\Fameo\app\src\main\AndroidManifest.xml
+		ADDED from D:\SourceCode\Product\FameoAndroid2\Fameo\app\src\main\AndroidManifest.xml:39:17-46
+	android:name
+		ADDED from D:\SourceCode\Product\FameoAndroid2\Fameo\app\src\main\AndroidManifest.xml:38:24-85
+data
+INJECTED from D:\SourceCode\Product\FameoAndroid2\Fameo\app\src\main\AndroidManifest.xml:50:17-51:49
+	android:host
+		INJECTED from D:\SourceCode\Product\FameoAndroid2\Fameo\app\src\main\AndroidManifest.xml
+		ADDED from D:\SourceCode\Product\FameoAndroid2\Fameo\app\src\main\AndroidManifest.xml:51:21-47
+	android:scheme
+		ADDED from D:\SourceCode\Product\FameoAndroid2\Fameo\app\src\main\AndroidManifest.xml:50:23-45
+manifest
+ADDED from D:\SourceCode\Product\FameoAndroid2\Fameo\app\src\main\AndroidManifest.xml:22:1-55:12
+INJECTED from D:\SourceCode\Product\FameoAndroid2\Fameo\app\src\main\AndroidManifest.xml:22:1-55:12
+INJECTED from D:\SourceCode\Product\FameoAndroid2\Fameo\app\src\main\AndroidManifest.xml:22:1-55:12
+INJECTED from D:\SourceCode\Product\FameoAndroid2\Fameo\app\src\main\AndroidManifest.xml:22:1-55:12
+MERGED from [com.github.GoogleChrome.custom-tabs-client:customtabs:126c460] C:\Users\erdendi.lesmana\.gradle\caches\transforms-1\files-1.1\customtabs-126c460.aar\cbc2b336db8c96066cc695c2ab538e0f\AndroidManifest.xml:17:1-25:12
+MERGED from [com.github.GoogleChrome.custom-tabs-client:shared:126c460] C:\Users\erdendi.lesmana\.gradle\caches\transforms-1\files-1.1\shared-126c460.aar\673c524d06123634317f8146ebb94e6e\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\erdendi.lesmana\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\6f6f22b89c5352fd167299d2b5f3838c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\erdendi.lesmana\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\0289835846664003bda387c0ca490313\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\erdendi.lesmana\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\a1abbd2bd5685be1775c84cb74b95f6c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\erdendi.lesmana\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\c940fe8650d199ce73d0aedbefa47a15\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\erdendi.lesmana\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\dff5392d4ea7d65235e778d7b06b2fa9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\erdendi.lesmana\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\0f8cc4d823b96efa21a00e19d60e0774\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\erdendi.lesmana\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\6af3e06e108b2162eff99b05e812c147\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\erdendi.lesmana\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\5c0596c920e280b1a5f34dffcbf90296\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\erdendi.lesmana\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\689f16a707c11d3964c07e4647252738\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\erdendi.lesmana\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\e026127059b2f8c19d40fc417297491c\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\SourceCode\Product\FameoAndroid2\Fameo\app\src\main\AndroidManifest.xml:22:1-55:12
+INJECTED from D:\SourceCode\Product\FameoAndroid2\Fameo\app\src\main\AndroidManifest.xml:22:1-55:12
+INJECTED from D:\SourceCode\Product\FameoAndroid2\Fameo\app\src\main\AndroidManifest.xml:22:1-55:12
+	package
+		ADDED from D:\SourceCode\Product\FameoAndroid2\Fameo\app\src\main\AndroidManifest.xml:23:5-30
+		INJECTED from D:\SourceCode\Product\FameoAndroid2\Fameo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\SourceCode\Product\FameoAndroid2\Fameo\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\SourceCode\Product\FameoAndroid2\Fameo\app\src\main\AndroidManifest.xml
+		ADDED from D:\SourceCode\Product\FameoAndroid2\Fameo\app\src\main\AndroidManifest.xml:22:1-55:12
+		INJECTED from D:\SourceCode\Product\FameoAndroid2\Fameo\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\SourceCode\Product\FameoAndroid2\Fameo\app\src\main\AndroidManifest.xml
+		ADDED from D:\SourceCode\Product\FameoAndroid2\Fameo\app\src\main\AndroidManifest.xml:22:1-55:12
+		INJECTED from D:\SourceCode\Product\FameoAndroid2\Fameo\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\SourceCode\Product\FameoAndroid2\Fameo\app\src\main\AndroidManifest.xml:22:11-69
+uses-sdk
+INJECTED from D:\SourceCode\Product\FameoAndroid2\Fameo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\SourceCode\Product\FameoAndroid2\Fameo\app\src\main\AndroidManifest.xml
+INJECTED from D:\SourceCode\Product\FameoAndroid2\Fameo\app\src\main\AndroidManifest.xml
+MERGED from [com.github.GoogleChrome.custom-tabs-client:customtabs:126c460] C:\Users\erdendi.lesmana\.gradle\caches\transforms-1\files-1.1\customtabs-126c460.aar\cbc2b336db8c96066cc695c2ab538e0f\AndroidManifest.xml:20:5-44
+MERGED from [com.github.GoogleChrome.custom-tabs-client:customtabs:126c460] C:\Users\erdendi.lesmana\.gradle\caches\transforms-1\files-1.1\customtabs-126c460.aar\cbc2b336db8c96066cc695c2ab538e0f\AndroidManifest.xml:20:5-44
+MERGED from [com.github.GoogleChrome.custom-tabs-client:shared:126c460] C:\Users\erdendi.lesmana\.gradle\caches\transforms-1\files-1.1\shared-126c460.aar\673c524d06123634317f8146ebb94e6e\AndroidManifest.xml:22:5-24:41
+MERGED from [com.github.GoogleChrome.custom-tabs-client:shared:126c460] C:\Users\erdendi.lesmana\.gradle\caches\transforms-1\files-1.1\shared-126c460.aar\673c524d06123634317f8146ebb94e6e\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\erdendi.lesmana\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\6f6f22b89c5352fd167299d2b5f3838c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\erdendi.lesmana\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\6f6f22b89c5352fd167299d2b5f3838c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\erdendi.lesmana\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\0289835846664003bda387c0ca490313\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\erdendi.lesmana\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\0289835846664003bda387c0ca490313\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\erdendi.lesmana\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\a1abbd2bd5685be1775c84cb74b95f6c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\erdendi.lesmana\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\a1abbd2bd5685be1775c84cb74b95f6c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\erdendi.lesmana\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\c940fe8650d199ce73d0aedbefa47a15\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\erdendi.lesmana\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\c940fe8650d199ce73d0aedbefa47a15\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\erdendi.lesmana\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\dff5392d4ea7d65235e778d7b06b2fa9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\erdendi.lesmana\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\dff5392d4ea7d65235e778d7b06b2fa9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\erdendi.lesmana\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\0f8cc4d823b96efa21a00e19d60e0774\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\erdendi.lesmana\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\0f8cc4d823b96efa21a00e19d60e0774\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\erdendi.lesmana\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\6af3e06e108b2162eff99b05e812c147\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\erdendi.lesmana\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\6af3e06e108b2162eff99b05e812c147\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\erdendi.lesmana\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\5c0596c920e280b1a5f34dffcbf90296\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\erdendi.lesmana\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\5c0596c920e280b1a5f34dffcbf90296\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\erdendi.lesmana\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\689f16a707c11d3964c07e4647252738\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\erdendi.lesmana\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\689f16a707c11d3964c07e4647252738\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\erdendi.lesmana\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\e026127059b2f8c19d40fc417297491c\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\erdendi.lesmana\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\e026127059b2f8c19d40fc417297491c\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\SourceCode\Product\FameoAndroid2\Fameo\app\src\main\AndroidManifest.xml
+INJECTED from D:\SourceCode\Product\FameoAndroid2\Fameo\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\SourceCode\Product\FameoAndroid2\Fameo\app\src\main\AndroidManifest.xml
+		ADDED from D:\SourceCode\Product\FameoAndroid2\Fameo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\SourceCode\Product\FameoAndroid2\Fameo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\SourceCode\Product\FameoAndroid2\Fameo\app\src\main\AndroidManifest.xml
+		ADDED from D:\SourceCode\Product\FameoAndroid2\Fameo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\SourceCode\Product\FameoAndroid2\Fameo\app\src\main\AndroidManifest.xml
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\SourceCode\Product\FameoAndroid2\Fameo\app\src\main\AndroidManifest.xml:41:13-44:29
+action#android.intent.action.MAIN
+ADDED from D:\SourceCode\Product\FameoAndroid2\Fameo\app\src\main\AndroidManifest.xml:42:17-69
+	android:name
+		ADDED from D:\SourceCode\Product\FameoAndroid2\Fameo\app\src\main\AndroidManifest.xml:42:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\SourceCode\Product\FameoAndroid2\Fameo\app\src\main\AndroidManifest.xml:43:17-77
+	android:name
+		ADDED from D:\SourceCode\Product\FameoAndroid2\Fameo\app\src\main\AndroidManifest.xml:43:27-74
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:xyz.appmaker.bdcznr+data:scheme:https
+ADDED from D:\SourceCode\Product\FameoAndroid2\Fameo\app\src\main\AndroidManifest.xml:46:13-52:29
+action#android.intent.action.VIEW
+ADDED from D:\SourceCode\Product\FameoAndroid2\Fameo\app\src\main\AndroidManifest.xml:47:17-68
+	android:name
+		ADDED from D:\SourceCode\Product\FameoAndroid2\Fameo\app\src\main\AndroidManifest.xml:47:25-66
+category#android.intent.category.DEFAULT
+ADDED from D:\SourceCode\Product\FameoAndroid2\Fameo\app\src\main\AndroidManifest.xml:48:17-76
+	android:name
+		ADDED from D:\SourceCode\Product\FameoAndroid2\Fameo\app\src\main\AndroidManifest.xml:48:27-73
+category#android.intent.category.BROWSABLE
+ADDED from D:\SourceCode\Product\FameoAndroid2\Fameo\app\src\main\AndroidManifest.xml:49:17-77
+	android:name
+		ADDED from D:\SourceCode\Product\FameoAndroid2\Fameo\app\src\main\AndroidManifest.xml:49:27-75

@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon Dec 16 17:00:29 ICT 2019
+0.baseType=DIRECTORY
+0.base=D\:\\SourceCode\\Product\\FameoAndroid2\\Fameo\\app\\build\\intermediates\\transforms\\dexMerger\\release\\0
+0.path=classes.dex
+0.set=DEX
+count=1

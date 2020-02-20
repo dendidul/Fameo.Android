@@ -1,0 +1,4 @@
+#Mon Dec 16 17:00:29 ICT 2019
+base.0=D\:\\SourceCode\\Product\\FameoAndroid2\\Fameo\\app\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
